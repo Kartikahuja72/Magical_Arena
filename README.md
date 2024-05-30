@@ -1,6 +1,6 @@
 # Magical Arena
 
-The Magical Arena is a turn-based battle simulation where players fight using dice rolls to attack and defend. This project implements the Magical Arena using an MVC (Model-View-Controller) file structure in Node.js.
+The Magical Arena is a turn-based battle simulation where players fight using dice rolls to attack and defend. This project implements the Magical Arena using an MVC (Model-View-Controller) file structure in Node.js. 
 
 ## Project Structure
 
